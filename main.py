@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from telegram import Bot
 import json
 import os
